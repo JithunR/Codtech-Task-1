@@ -1,8 +1,13 @@
 **Name:** Jithun Ramesan
+
 **Company:** CODETECH IT SOLUTIONS
+
 **ID:** CT12DS2833
+
 **Domain:** Digital Marketing
-**Internship Duration:** 30th November 2024 - 30th January 2025  
+
+**Internship Duration:** 30th November 2024 - 30th January 2025
+
 **Mentor:** Neela   
 
 ---
