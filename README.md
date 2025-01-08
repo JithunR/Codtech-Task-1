@@ -9,7 +9,9 @@
 
 ## 📋 Overview of the Project
 
-### Project: Implementation of Automated Email Marketing Workflows Using Mailchimp
+### Project: Implementation of Automated Email Marketing Workflows Using Mailchimp.
+
+![image alt](https://github.com/JithunR/Codtech-Task-1/blob/c9ed065407949e966ed159bc8f62bb9b0d880f23/Screenshot%20(1).png)
 
 
 ### Objective
