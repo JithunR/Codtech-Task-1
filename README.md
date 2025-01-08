@@ -19,10 +19,7 @@
 ![image alt](https://github.com/JithunR/Codtech-Task-1/blob/c9ed065407949e966ed159bc8f62bb9b0d880f23/Screenshot%20(1).png)
 ![image alt](https://github.com/JithunR/Codtech-Task-1/blob/2cbeceefce949dff239cc3982b04d2beccea3539/Screenshot%20(5).png)
 ![image alt](https://github.com/JithunR/Codtech-Task-1/blob/477e16b04cca3203fcb8cbc34d7b6bb485a44e1b/Screenshot%20(6).png)
-![image alt]()
-![image alt](image_url)
-![image alt](image_url)
-
+![image alt](https://github.com/JithunR/Codtech-Task-1/blob/7c9fa312d6cb68a7008b0922a1d3139fc1942e4b/Screenshot%20(13).png)
 
 
 ### Objective
