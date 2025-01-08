@@ -1,4 +1,4 @@
-**Name:**Jithun Ramesan
+**Name:** Jithun Ramesan
 **Internship Duration:** [Start Date] - [End Date]  
 **Role:** [Your Internship Role, e.g., Digital Marketing Intern]  
 **Location:** [Remote/On-Site, City]  
