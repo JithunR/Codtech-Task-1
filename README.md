@@ -12,11 +12,13 @@
 ### Project: Implementation of Automated Email Marketing Workflows Using Mailchimp.
 
 ![image alt](https://github.com/JithunR/Codtech-Task-1/blob/c9ed065407949e966ed159bc8f62bb9b0d880f23/Screenshot%20(1).png)
+![image alt](https://github.com/JithunR/Codtech-Task-1/blob/2cbeceefce949dff239cc3982b04d2beccea3539/Screenshot%20(5).png)
+![image alt](image_url)
+
 
 
 ### Objective
 To set up an automated email marketing system in Mailchimp that delivers personalized content to the right audience, improves engagement, boosts conversions, and optimizes performance through regular tracking and updates.
-![image alt](https://github.com/JithunR/Codtech-Task-1/blob/2cbeceefce949dff239cc3982b04d2beccea3539/Screenshot%20(5).png)
 
 ## 🎯 Key Activities
 - **1.Audience Segmentation:**
