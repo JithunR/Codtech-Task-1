@@ -11,6 +11,7 @@
 
 ### Project: Implementation of Automated Email Marketing Workflows Using Mailchimp
 
+
 ### Objective
 To set up an automated email marketing system in Mailchimp that delivers personalized content to the right audience, improves engagement, boosts conversions, and optimizes performance through regular tracking and updates.
 
