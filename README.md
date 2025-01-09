@@ -1,6 +1,6 @@
 **Name:** Jithun Ramesan
 
-**Company:** CODETECH IT SOLUTIONS
+**Company:** CODTECH IT SOLUTIONS
 
 **ID:** CT12DS2833
 
