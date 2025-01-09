@@ -8,7 +8,7 @@
 
 **Internship Duration:** 30th November 2024 - 30th January 2025
 
-**Mentor:** Neela   
+**Mentor:** Neela Santosh 
 
 ---
 
@@ -36,7 +36,7 @@ Created customized, mobile-friendly email templates with and personalized conten
 Developed automated workflows for scenarios like welcome emails, and re-engagement campaigns.
 
 - **4.Performance Tracking:**
-Monitored key metrics such as open rates, click-through rates, and conversions to evaluate campaign success.
+Monitored key metrics such as open rates, click-through rates, and conversions to evaluate campaign.
 
 - **Content Personalization:**
 Used merge tags and dynamic content to deliver relevant and personalized messages to users.
@@ -70,11 +70,9 @@ Automation reduced manual effort while ensuring timely and consistent communicat
 ## 🤝 Expected Outcomes
 - **Enhanced engagement with personalized, relevant email content.**
 
-- **Increased conversions through timely and targeted messaging.**
-
 - **Streamlined communication processes, saving time and resources.**
 
-- **Valuable insights into audience behavior, helping shape future marketing strategies.**
+- **helping shape future marketing strategies.**
 
 ---
 
